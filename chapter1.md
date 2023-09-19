@@ -14,7 +14,7 @@ skills:
   - 2
 ```
 
-This is an example exercise.
+This is an example exercise. Modified for testing
 
 `@instructions`
 
